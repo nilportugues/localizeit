@@ -7,7 +7,7 @@
 [![David](https://img.shields.io/david/ivangabriele/localizeit.svg?style=flat-square)](https://david-dm.org/ivangabriele/localizeit)
 [![David](https://img.shields.io/david/dev/ivangabriele/localizeit.svg?style=flat-square)](https://david-dm.org/ivangabriele/localizeit)
 
-[![NSP Status](https://nodesecurity.io/orgs/ivangabriele/projects/3e54f722-a58c-47ba-a053-aa040cd75001/badge)](https://nodesecurity.io/orgs/ivangabriele/projects/3e54f722-a58c-47ba-a053-aa040cd75001)
+[![NSP Status](https://nodesecurity.io/orgs/ivan-gabriele/projects/5b1b111f-60f8-4fe2-859e-7c5792b1eabd/badge)](https://nodesecurity.io/orgs/ivan-gabriele/projects/5b1b111f-60f8-4fe2-859e-7c5792b1eabd)
 
 ## Introduction
 
